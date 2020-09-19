@@ -80,9 +80,9 @@ class _HomeScreenState extends State<HomeScreen> {
           title: Container(
               padding: EdgeInsets.all(10),
               child: Text(
-                'ofypets',
+                '買漁趣',
                 textAlign: TextAlign.start,
-                style: TextStyle(fontFamily: 'HolyFat', fontSize: 50),
+                style: TextStyle(fontFamily: 'Kai', fontSize: 50),
               )),
           actions: <Widget>[
             shoppingCartIconButton(),
